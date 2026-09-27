@@ -1,4 +1,4 @@
-name: win 11 + tailscale + Download.batscript 
+name: windows 11
 
 on:
   workflow_dispatch:
